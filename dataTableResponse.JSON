@@ -1,0 +1,123 @@
+{
+  "errorCode": "SUCCESS",
+  "errorMessage": null,
+  "paginationFlag": true,
+  "defaultPageSize": 25,
+  "noDataText": "No Records Found",
+  "minimumRowsToDisplay": 1,
+  "isEditable": "N",
+  "columnsList": [
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogStatus",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "Status"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogRoleId",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "Role"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogPfNumber",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "PF Number"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogDate",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "DateTime"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogSerialNumber",
+      "width": 70,
+      "filterable": true,
+      "show": false,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "S. No"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogEmpName",
+      "width": 200,
+      "filterable": true,
+      "show": false,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "Name"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogWorkflowId",
+      "width": 0,
+      "filterable": false,
+      "show": false,
+      "sortable": false,
+      "filterAll": false,
+      "Header": "Workflow Id"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogScreen",
+      "width": 0,
+      "filterable": false,
+      "show": false,
+      "sortable": false,
+      "filterAll": false,
+      "Header": "ScreenName"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogUcif",
+      "width": 0,
+      "filterable": false,
+      "show": false,
+      "sortable": false,
+      "filterAll": false,
+      "Header": "UCIF"
+    }
+  ],
+  "gridObject": [
+    {
+      "crrEventLogDate": "2019-12-31 14:30:57.077",
+      "crrEventLogPfNumber": "00132600",
+      "crrEventLogScreen": "DISCOUNTING",
+      "crrEventLogRoleId": "CDDC",
+      "crrEventLogWorkflowId": "10011",
+      "crrEventLogUcif": "UIND_20091",
+      "crrEventLogEmpName": null,
+      "crrEventLogSerialNumber": "1",
+      "crrEventLogStatus": "Resolution Pending"
+    }
+  ]
+}
