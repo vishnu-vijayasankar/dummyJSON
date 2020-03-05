@@ -105,6 +105,105 @@
       "sortable": false,
       "filterAll": false,
       "Header": "UCIF"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogStatus",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "Status"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogRoleId",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "Role"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogPfNumber",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "PF Number"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogDate",
+      "width": 200,
+      "filterable": true,
+      "show": true,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "DateTime"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogSerialNumber",
+      "width": 70,
+      "filterable": true,
+      "show": false,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "S. No"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogEmpName",
+      "width": 200,
+      "filterable": true,
+      "show": false,
+      "sortable": true,
+      "filterAll": true,
+      "Header": "Name"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogWorkflowId",
+      "width": 0,
+      "filterable": false,
+      "show": false,
+      "sortable": false,
+      "filterAll": false,
+      "Header": "Workflow Id"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogScreen",
+      "width": 0,
+      "filterable": false,
+      "show": false,
+      "sortable": false,
+      "filterAll": false,
+      "Header": "ScreenName"
+    },
+    {
+      "errorCode": null,
+      "errorMessage": null,
+      "accessor": "crrEventLogUcif",
+      "width": 0,
+      "filterable": false,
+      "show": false,
+      "sortable": false,
+      "filterAll": false,
+      "Header": "UCIF"
     }
   ],
   "gridObject": [
