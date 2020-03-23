@@ -1,1 +1,77 @@
-[{"listIndex":0, "listOption":"India","listChecked":true},{"listIndex":1,"listOption":"England","listChecked":false},{"listIndex":2, "listOption":"Pakistan","listChecked":true},{"listIndex":3, "listOption":"New Zealand","listChecked":false},{"listIndex":4, "listOption":"Australia","listChecked":true}]
+[
+    {
+        "listChecked": false,
+        "listIndex": 0,
+        "listOption": "GroupTest3 Selenium"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 1,
+        "listOption": "Banking Industry"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 2,
+        "listOption": "Group IT Malaysia"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 3,
+        "listOption": "Automobile Singapore and Malaysia"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 4,
+        "listOption": "Business Consulting"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 5,
+        "listOption": "PALM OIL Malaysia"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 6,
+        "listOption": "Advertising"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 7,
+        "listOption": "Real Estate"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 8,
+        "listOption": "Mining Malaysia"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 9,
+        "listOption": "Automotive Malaysia"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 10,
+        "listOption": "Food Industry Malaysia"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 11,
+        "listOption": "Banking - Retail"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 12,
+        "listOption": "Banking - Commercial"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 13,
+        "listOption": "Manufacturing"
+    },
+    {
+        "listChecked": false,
+        "listIndex": 14,
+        "listOption": "Logistics"
+    }
+]
