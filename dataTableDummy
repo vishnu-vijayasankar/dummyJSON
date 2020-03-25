@@ -48,18 +48,33 @@
 "filterAll": "true",
 "order": 3,
 "Header": "Year-2018"
+},
+{
+"responseTime": 0,
+"executionStatus": null,
+"errorDetails": null,
+"accessor": "accessor2019",
+"width": 150,
+"filterable": "true",
+"show": "true",
+"sortable": "true",
+"filterAll": "true",
+"order": 4,
+"Header": "Year-2019"
 }
 ],
 "gridObject": [
 {
 "financialRatio": "Return on Total Assets (%)",
 "accessor2017": 22.1645,
-"accessor2018": 21.7111
+"accessor2018": 21.7111,
+"accessor2019": 21.7111
 },
 {
 "financialRatio": "Sales Growth",
 "accessor2017": 7.7116,
-"accessor2018": 25.9379
+"accessor2018": 25.9379,
+"accessor2019": 21.7111
 }
 ]
 }
