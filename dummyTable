@@ -1,0 +1,80 @@
+{
+"responseTime": 148,
+"executionStatus": "SUCCESS",
+"errorDetails": null,
+"datatableNameId": null,
+"datatableName": null,
+"paginationFlag": "true",
+"defaultPageSize": 10,
+"noDataText": "No Records Found",
+"minimumRowsToDisplay": 1,
+"isEditable": "N",
+"columnsList": [
+{
+"responseTime": 0,
+"executionStatus": null,
+"errorDetails": null,
+"accessor": "financialRatio",
+"width": 150,
+"filterable": "true",
+"show": "true",
+"sortable": "true",
+"filterAll": "true",
+"order": 1,
+"Header": "Financial Ratio"
+},
+{
+"responseTime": 0,
+"executionStatus": null,
+"errorDetails": null,
+"accessor": "accessor2017",
+"width": 150,
+"filterable": "true",
+"show": "true",
+"sortable": "true",
+"filterAll": "true",
+"order": 2,
+"Header": "Year-2017"
+},
+{
+"responseTime": 0,
+"executionStatus": null,
+"errorDetails": null,
+"accessor": "accessor2018",
+"width": 150,
+"filterable": "true",
+"show": "true",
+"sortable": "true",
+"filterAll": "true",
+"order": 3,
+"Header": "Year-2018"
+},
+{
+"responseTime": 0,
+"executionStatus": null,
+"errorDetails": null,
+"accessor": "accessor2019",
+"width": 150,
+"filterable": "true",
+"show": "true",
+"sortable": "true",
+"filterAll": "true",
+"order": 4,
+"Header": "Year-2019"
+}
+],
+"gridObject": [
+{
+"financialRatio": "Return on Total Assets (%)",
+"accessor2017": 22.1645,
+"accessor2018": 21.7111,
+"accessor2019": 21.7111
+},
+{
+"financialRatio": "Sales Growth",
+"accessor2017": 7.7116,
+"accessor2018": 25.9379,
+"accessor2019": 21.7111
+}
+]
+}
