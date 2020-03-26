@@ -2,76 +2,91 @@
     {
         "listChecked": false,
         "listIndex": 0,
-        "listOption": "GroupTest3 Selenium"
+        "listOption": "GroupTest3 Selenium",
+        "listCode": "code1"
     },
     {
         "listChecked": false,
         "listIndex": 1,
-        "listOption": "Banking Industry"
+        "listOption": "Banking Industry",
+        "listCode": "code2"
     },
     {
         "listChecked": false,
         "listIndex": 2,
-        "listOption": "Group IT Malaysia"
+        "listOption": "Group IT Malaysia",
+        "listCode": "code3"
     },
     {
         "listChecked": false,
         "listIndex": 3,
-        "listOption": "Automobile Singapore and Malaysia"
+        "listOption": "Automobile Singapore and Malaysia",
+        "listCode": "code4"
     },
     {
         "listChecked": false,
         "listIndex": 4,
-        "listOption": "Business Consulting"
+        "listOption": "Business Consulting",
+        "listCode": "code5"
     },
     {
         "listChecked": false,
         "listIndex": 5,
-        "listOption": "PALM OIL Malaysia"
+        "listOption": "PALM OIL Malaysia",
+        "listCode": "code6"
     },
     {
         "listChecked": false,
         "listIndex": 6,
-        "listOption": "Advertising"
+        "listOption": "Advertising",
+        "listCode": "code7"
     },
     {
         "listChecked": false,
         "listIndex": 7,
-        "listOption": "Real Estate"
+        "listOption": "Real Estate",
+        "listCode": "code8"
     },
     {
         "listChecked": false,
         "listIndex": 8,
-        "listOption": "Mining Malaysia"
+        "listOption": "Mining Malaysia",
+        "listCode": "code9"
     },
     {
         "listChecked": false,
         "listIndex": 9,
-        "listOption": "Automotive Malaysia"
+        "listOption": "Automotive Malaysia",
+        "listCode": "code10"
     },
     {
         "listChecked": false,
         "listIndex": 10,
-        "listOption": "Food Industry Malaysia"
+        "listOption": "Food Industry Malaysia",
+        "listCode": "code11"
     },
     {
         "listChecked": false,
         "listIndex": 11,
-        "listOption": "Banking - Retail"
+        "listOption": "Banking - Retail",
+        "listCode": "code12"
     },
     {
         "listChecked": false,
         "listIndex": 12,
-        "listOption": "Banking - Commercial"
+        "listOption": "Banking - Commercial",
+        "listCode": "code13"
     },
     {
         "listChecked": false,
         "listIndex": 13,
-        "listOption": "Manufacturing"
+        "listOption": "Manufacturing",
+        "listCode": "code14"
     },
     {
         "listChecked": false,
         "listIndex": 14,
-        "listOption": "Logistics"
+        "listOption": "Logistics",
+        "listCode": "code15"
     }
 ]
